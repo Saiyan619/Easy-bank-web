@@ -3,19 +3,19 @@ import React from 'react'
 const Features = () => {
     const featuresSet = [
         {
-            icon: "/src/assets/easybank-landing-page-master/easybank-landing-page-master/images/icon-online.svg",
+            icon: "./easybank-landing-page-master/easybank-landing-page-master/images/icon-online.svg",
             title:'Online Banking',
             overview:'Our modern web and mobile applications allow you to keep track of your finaces wherever you are in the world'
         },{
-            icon: "/src/assets/easybank-landing-page-master/easybank-landing-page-master/images/icon-budgeting.svg",
+            icon: "./easybank-landing-page-master/easybank-landing-page-master/images/icon-budgeting.svg",
             title:'Simple Budgeting',
             overview:'See exactly where your money goes each month. Recieve notifications when youre closse to hittnig limits'
         },{
-            icon: "/src/assets/easybank-landing-page-master/easybank-landing-page-master/images/icon-onboarding.svg",
+            icon: "./easybank-landing-page-master/easybank-landing-page-master/images/icon-onboarding.svg",
             title:'Fast Onboarding',
             overview:"We don't do branches. Open your account in minutes online and start taking control of your finances right away"
         },{
-            icon: "/src/assets/easybank-landing-page-master/easybank-landing-page-master/images/icon-online.svg",
+            icon: "./easybank-landing-page-master/easybank-landing-page-master/images/icon-online.svg",
             title:'Open Api',
             overview:'Manage your savings,investments,pension, and nuch more from one account. Tracking your money has never been easier.'
         }

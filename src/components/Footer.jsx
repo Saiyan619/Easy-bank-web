@@ -6,14 +6,14 @@ const Footer = () => {
           <div className='text-center md:flex-row mt-5 mb-5 md:flex md:items-center md:justify-between'>
               <div className='flex items-center flex-col gap-8'>
                   <div>
-                      <img src="/src/assets/easybank-landing-page-master/easybank-landing-page-master/images/logo.svg" alt="" />
+                      <img src="./easybank-landing-page-master/easybank-landing-page-master/images/logo.svg" alt="" />
                   </div>
                   <div className='flex items-center gap-4 '> 
-                      <img src="/src/assets/easybank-landing-page-master/easybank-landing-page-master/images/icon-facebook.svg" alt="" />
-                      <img src="/src/assets/easybank-landing-page-master/easybank-landing-page-master/images/icon-youtube.svg" alt="" />
-                      <img src="/src/assets/easybank-landing-page-master/easybank-landing-page-master/images/icon-twitter.svg" alt="" />
-                      <img src="/src/assets/easybank-landing-page-master/easybank-landing-page-master/images/icon-pinterest.svg" alt="" />
-                      <img src="/src/assets/easybank-landing-page-master/easybank-landing-page-master/images/icon-i" alt="" />
+                      <img src="./easybank-landing-page-master/easybank-landing-page-master/images/icon-facebook.svg" alt="" />
+                      <img src="./easybank-landing-page-master/easybank-landing-page-master/images/icon-youtube.svg" alt="" />
+                      <img src="./easybank-landing-page-master/easybank-landing-page-master/images/icon-twitter.svg" alt="" />
+                      <img src="./easybank-landing-page-master/easybank-landing-page-master/images/icon-pinterest.svg" alt="" />
+                      <img src="./easybank-landing-page-master/easybank-landing-page-master/images/icon-i" alt="" />
                   </div>
               </div>
               <ul className='mt-2'>

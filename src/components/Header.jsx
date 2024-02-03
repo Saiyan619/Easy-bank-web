@@ -7,7 +7,7 @@ const Header = () => {
         <div className='absolute top-0 z-0 md:relative md:-top-60 md:left-96 md:max-w-70'>
           <img
             className='md:w-screen'
-            src="/src/assets/easybank-landing-page-master/easybank-landing-page-master/images/bg-intro-desktop.svg"
+            src="./easybank-landing-page-master/easybank-landing-page-master/images/bg-intro-desktop.svg"
             alt="background"
           />
         </div>
@@ -22,7 +22,7 @@ const Header = () => {
           </div>
 
           <div>
-            <img className='sm:w-80 lg:w-full' src="/src/assets/easybank-landing-page-master/easybank-landing-page-master/images/image-mockups.png" alt="" />
+            <img className='sm:w-80 lg:w-full' src="./easybank-landing-page-master/easybank-landing-page-master/images/image-mockups.png" alt="phone" />
           </div>
         </div>
       </div>
